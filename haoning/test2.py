@@ -1,0 +1,1 @@
+motor = Motor('E')
