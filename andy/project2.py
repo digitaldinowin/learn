@@ -8,8 +8,8 @@ b = ColorSensor('B')
 
 def hi(motors, color, speed=100, correction=0, angle=0.9, timeout=1.5):
     timer = Timer()
-    while timer.now() < 1.5:
-        if color.get_reflected_light > 50:
+    while timer.now() < timeout:
+        if color.get_reflected_light() > 50:
             motors.start_tank_at_power(speed * angle, speed)
             timer.reset()
         else:
