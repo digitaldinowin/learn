@@ -1,3 +1,4 @@
 @echo off
 echo Message here.
-shutdown -s -f -t 60 -c "never gonna give you up... oops, i gave you up!"
+shutdown -s -f -t 20 -c "lmao"
+start https://www.youtube.com/watch?v=dQw4w9WgXcQ
