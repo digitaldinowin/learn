@@ -1,1 +1,1 @@
-shutdown -s -f -t 0 -c ""
+shutdown /s /f /t 0
