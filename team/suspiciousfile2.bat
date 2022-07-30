@@ -1,3 +1,3 @@
 :a
-start https://c.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif
+start https://www.youtube.com/watch?v=dQw4w9WgXcQ
 goto a
