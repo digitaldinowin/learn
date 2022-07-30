@@ -1,4 +1,4 @@
-import subprocess, os
+import subprocess
 game = open("verycoolgame.bat", 'w')
 game.write('''@echo off
 echo let's get started...
